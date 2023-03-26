@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tiendademascotas-staging-13314-authRole",
+      "UnauthRoleArn": "arn:aws:iam::908255618861:role/amplify-tiendademascotas-staging-13314-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::908255618861:role/amplify-tiendademascotas-staging-13314-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-tiendademascotas-staging-13314-deployment",
+      "UnauthRoleName": "amplify-tiendademascotas-staging-13314-unauthRole",
+      "StackName": "amplify-tiendademascotas-staging-13314",
+      "StackId": "arn:aws:cloudformation:us-west-1:908255618861:stack/amplify-tiendademascotas-staging-13314/2d624db0-cb76-11ed-9c6d-0675b32756e7",
+      "AmplifyAppId": "d2ngri0fqxwr70"
+    }
+  }
+}

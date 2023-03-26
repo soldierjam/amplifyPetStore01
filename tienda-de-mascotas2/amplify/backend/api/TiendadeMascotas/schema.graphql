@@ -1,0 +1,9 @@
+type Mascotas @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  nombre: String!
+  Edad: Int
+  Raza: String
+  Acerca: String
+  Imagen: String
+  Color: String
+}
